@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kotlin Traning</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="zero">0</string>
+
+    <string name="welcome">bienvenue</string>
+    <string name="description">
+        Vous pouvez avoir le nombre de minutes entre
+        votre date de naissance et aujoud\'hui
+    </string>
+
+    <string name="selectDate">Choisir une date</string>
+    <string name="chosenDate">Date choisie</string>
+    <string name="result">Résultat</string>
+</resources>
